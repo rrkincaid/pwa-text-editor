@@ -12,6 +12,9 @@
 
 ## Description
 
+    PWA that allows you to switch between online and offline modes and still works,
+    also allows you to download app to desktop from web browser (install button).
+
 ## User Story
 
 ```md
@@ -54,11 +57,8 @@ THEN I should have proper build scripts for a webpack application
 
 Application Functionality:
 
-manifest.json file:
-
-Registered Service Worker:
-
-IndexedDB storage:
+<img src="./assets/Capture.PNG">
+<img src="./assets/Capture1.PNG">
 
 ## Github Repository
 
@@ -68,4 +68,4 @@ https://rrkincaid.github.io/pwa-text-editor/
 
 ## Heroku Deployment
 
-## Gitignore
+https://mysterious-headland-51396.herokuapp.com/
