@@ -59,6 +59,8 @@ Application Functionality:
 
 <img src="./assets/Capture.PNG">
 <img src="./assets/Capture1.PNG">
+<img src="./assets/Capture3.PNG">
+<img src="./assets/Capture4.PNG">
 
 ## Github Repository
 
